@@ -1,4 +1,4 @@
-	https://github.com/Beliasau?tab=repositories  			@Grizzly_White
+GitHub. HW_1	https://github.com/Beliasau/Git 			@Grizzly_White
 
 
 Для выполнения задания у вас должен быть установлен для Windows - GitBash.

@@ -1,4 +1,4 @@
-	GitHub. HW_2			https://github.com/Beliasau/GitHub.HW_2.git
+ 	GitHub. HW_2		https://github.com/Beliasau/Git				@Grizzly_White
 
 
 
