@@ -1,0 +1,10 @@
+id
+Siverity
+priopity[D[D[D[D[D[D[P[C[C[C[C[C[C[C
+Environment
+Title 
+Steps
+Expectedresult[D[D[D[D[D[D[D[C result
+Actual result
+Link
+Autor
