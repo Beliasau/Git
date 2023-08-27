@@ -1,0 +1,20 @@
+id
+Siverity
+priopity
+Environment
+Title 
+Steps
+Expected result
+Actual result
+Link
+Autor
+id
+Siverity
+priopity
+Environment
+Title 
+Steps
+Expected result
+Actual result
+Link
+Autor
